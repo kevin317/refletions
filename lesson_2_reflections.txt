@@ -5,6 +5,8 @@ there is a .git. so i can have version control.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+Stores information about what will go into your next commit; offers a intermediate ground between other two.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
