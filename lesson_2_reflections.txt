@@ -10,13 +10,23 @@ Stores information about what will go into your next commit; offers a intermedia
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+git diff to see the difference between working directory and staging area
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+creating different versions of app. Branches allow me to change a version without touching the master.
+
 How do the diagrams help you visualize the branch structure?
+
+I can tell which commit is from which branch, and where i made changes.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+It will has the features of bothe branches. Because we can see the changes.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+manually
+
+automatic is easier and coveneint, and manual is accurate and troublesome.
